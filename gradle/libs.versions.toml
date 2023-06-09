@@ -31,4 +31,5 @@ indra = { id = "net.kyori.indra", version.ref = "indra" }
 indra-checkstyle = { id = "net.kyori.indra.checkstyle", version.ref = "indra" }
 indra-licenser-spotless = { id = "net.kyori.indra.licenser.spotless", version.ref = "indra" }
 indra-sonatype = { id = "net.kyori.indra.publishing.sonatype", version.ref = "indra" }
+indra-crossdoc = { id = "net.kyori.indra.crossdoc", version.ref = "indra" }
 spotless = { id = "com.diffplug.spotless", version.ref = "spotless"}
